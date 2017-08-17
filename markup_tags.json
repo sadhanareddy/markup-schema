@@ -1,0 +1,25 @@
+{
+	"qa_category":{
+		"question":"question",
+		"correct-answer":"correct-ans",
+		"multiple-choice":"mul-choice",
+		"explanation":"explanation",
+		"useful-links":"useful-links"
+	},
+
+	"product_category":{
+		"product-name":"product-name",
+		"model":"model",
+		"price":"price",
+		"seller":"seller",
+		"brand":"brand"
+	},
+
+	"number_category":{
+		"date":"date",
+		"time":"time",
+		"currency":"currency",
+		"distance":"distance",
+		"weight":"weight"
+	}
+}
