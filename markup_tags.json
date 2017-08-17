@@ -1,25 +1,23 @@
 {
 	"qa_category":{
-		"question":"question",
-		"correct-answer":"correct-ans",
-		"multiple-choice":"mul-choice",
-		"explanation":"explanation",
-		"useful-links":"useful-links"
+		"question":"question-tag",
+		"correct-answer":"correctans-tag",
+		"multiple-choice":"mulchoice-tag",
+		"explanation":"explanation-tag",
+		"useful-links":"usefullinks-tag"
 	},
-
-	"product_category":{
+        "product_category":{
 		"product-name":"product-name",
-		"model":"model",
-		"price":"price",
-		"seller":"seller",
-		"brand":"brand"
+		"model":"model-tag",
+		"price":"price-tag",
+		"seller":"seller-tag",
+		"brand":"brand-tag"
 	},
-
-	"number_category":{
-		"date":"date",
-		"time":"time",
-		"currency":"currency",
-		"distance":"distance",
-		"weight":"weight"
+        "number_category":{
+		"date":"date-tag",
+		"time":"time-tag",
+		"currency":"currency-tag",
+		"distance":"distance-tag",
+		"weight":"weight-tag"
 	}
 }
