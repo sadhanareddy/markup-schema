@@ -1,32 +1,61 @@
 {
+    "categories": [
+	 {
+	    "seq-no": "1",
+	    "name": "qa",
+	    "sub":[ "qa-question", "qa-explanation",
+		    "qa-correctans", "qa-mulchoice",
+		    "qa-usefullinks"
+		  ]
+	 },
 
-    "cat1": {
-        "seq-no": "1",
-	"name": "qa",
-	"sub1": "qa-question",
-	"sub2": "qa-explanation",
-	"sub3": "qa-correctans",
-        "sub4": "qa-mulchoice",
-        "sub5": "qa-usefullinks"
-     },
+	 {
+	    "seq-no": "2",
+	    "name": "pd",
+	    "sub":[ "qa-question", "qa-explanation",
+		    "qa-correctans", "qa-mulchoice",
+		    "qa-usefullinks"
+		  ]
+	 },
+      
+	 {
+	    "seq-no": "3",
+	    "name": "pd",
+	    "sub":[ "qa-question", "qa-explanation",
+		    "qa-correctans", "qa-mulchoice",
+		    "qa-usefullinks"
+		  ]
+	  }
+    ]
+}    
 
-     "cat2": {
-        "seq-no": "2",
-	"name": "pd",
-	"sub1": "pd-productname",
-	"sub2": "pd-model",
-	"sub3": "pd-price",
-        "sub4": "pd-seller",
-        "sub5": "pd-brand"
-     },
+  //   "cat": {
+//         "seq-no": "1",
+// 	"name": "qa",
+// 	"sub": "qa-question",
+// 	"sub2": "qa-explanation",
+// 	"sub3": "qa-correctans",
+//         "sub4": "qa-mulchoice",
+//         "sub5": "qa-usefullinks"
+//      },
 
-     "cat2": {
-        "seq-no": "3",
-	"name": "num",
-	"sub1": "num-data",
-	"sub2": "num-time",
-	"sub3": "num-currency",
-        "sub4": "num-distance",
-        "sub5": "num-weight"
-      }
-}
+//      "cat": {
+//         "seq-no": "2",
+// 	"name": "pd",
+// 	"sub1": "pd-productname",
+// 	"sub2": "pd-model",
+// 	"sub3": "pd-price",
+//         "sub4": "pd-seller",
+//         "sub5": "pd-brand"
+//      },
+
+//      "cat": {
+//         "seq-no": "3",
+// 	"name": "num",
+// 	"sub1": "num-data",
+// 	"sub2": "num-time",
+// 	"sub3": "num-currency",
+//         "sub4": "num-distance",
+//         "sub5": "num-weight"
+//       }
+// }
