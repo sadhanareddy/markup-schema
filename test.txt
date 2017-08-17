@@ -1,1 +1,1 @@
-"<h4 id='annolet-header'>Semantic Overlay</h4>"
+<h4 id='annolet-header'>Semantic Overlay</h4>
