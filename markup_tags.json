@@ -1,23 +1,32 @@
 {
-	"qa_category":{
-		"question":"bl-question",
-		"correct-answer":"bl-correctans",
-		"multiple-choice":"bl-mulchoice",
-		"explanation":"bl-explanation",
-		"useful-links":"bl-usefullinks"
-	},
-        "product_category":{
-		"product-name":"bl-productname",
-		"model":"bl-model",
-		"price":"bl-price",
-		"seller":"bl-seller",
-		"brand":"bl-brand"
-	},
-        "number_category":{
-		"date":"bl-date",
-		"time":"bl-time",
-		"currency":"bl-currency",
-		"distance":"bl-distance",
-		"weight":"bl-weight"
-	}
+
+    "cat1": {
+        "seq-no": "1",
+	"name": "qa",
+	"sub1": "qa-question",
+	"sub2": "qa-explanation",
+	"sub3": "qa-correctans",
+        "sub4": "qa-mulchoice",
+        "sub5": "qa-usefullinks"
+     },
+
+     "cat2": {
+        "seq-no": "2",
+	"name": "pd",
+	"sub1": "pd-productname",
+	"sub2": "pd-model",
+	"sub3": "pd-price",
+        "sub4": "pd-seller",
+        "sub5": "pd-brand"
+     },
+
+     "cat2": {
+        "seq-no": "3",
+	"name": "num",
+	"sub1": "num-data",
+	"sub2": "num-time",
+	"sub3": "num-currency",
+        "sub4": "num-distance",
+        "sub5": "num-weight"
+      }
 }
